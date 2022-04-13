@@ -1,0 +1,2 @@
+# proy-sequelize
+Learning Sequelize
